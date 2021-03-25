@@ -1,0 +1,356 @@
+body
+{
+    background-color: black !important;
+    color: white  !important;
+}
+.box{
+background-color: orange;
+
+}
+.navbar-brand,.nav-link
+{
+    color:white !important;
+}
+.bg-image
+{
+    background: url("../img/foto-1.png") no-repeat center center ;
+    height: 650px;
+    background-size: cover;
+}
+.bold
+{
+    font-weight: 900;
+}
+.opening{
+    color:white;
+    font-size:90px;
+    font-weight: 100;
+    position: relative;
+    margin-top:-20.5%;
+    z-index: 1;
+    margin-left: 20%;
+}
+#title
+{
+    position: relative;
+    margin-top:15%;
+    width: 100%;
+    height: 150px;
+}
+.btn
+{
+    width: 50%;
+    background-color: orange;
+    border: white solid 3px;
+    width: 250px;
+    font-size: 32px;
+    border-radius: 0;
+    margin-top: -8%;
+    z-index: 2;
+    position: relative;
+}
+img
+{
+    height:300px ;
+    width:500px ;
+    position: relative;
+    margin-left:10%;
+    z-index: -2;
+}
+.box2
+{
+    background-color: orange;
+    width: 800px;
+    height: 140px;
+    position: relative;
+    top: -260px ;
+    left: 95px;
+    z-index: -1;
+}
+.vertical
+{
+    transform: rotate(-90deg);
+    font-size: 4.8ch;
+    margin-top: 100px;
+    font-weight: 100;
+}
+.new h4
+{
+    font-weight: bold;
+    margin-left: 30px;
+}
+.new
+{
+    font-size: 3ch;
+}
+.bg-white
+{
+    background-color: white;
+    color: black;
+}
+.bg6
+{
+    color:orange;
+    font-weight: bold;
+    font-size: 22px;
+}
+.bg-white p
+{
+    font-size: 12px;
+}
+.bg-menu
+{
+    background-image: url("../img/foto-3.png");
+    background-size: cover;
+    padding-top:-100px;
+    height: 100%;
+}
+.menu-pizza
+{
+    text-align: center;
+}
+.menu
+{
+    list-style-position:inside;
+    text-align: right;
+}
+.menu-preco
+{
+    list-style-position:inside;
+    text-align: left;
+}
+.menu-border
+{
+    border:  solid 1px white;
+ 
+}
+.menu-border h5
+{
+    color: orange;
+    text-align: center;
+}
+.menu-border ol
+{
+    list-style-position:inside;
+    text-align: center;
+    list-style-type: upper-roman;
+    z-index: 1;
+}
+.box3
+{
+    background-color: orange;
+    position: relative;
+    top: -205px;
+    left: 600px;
+    width: 30%;
+    height: 200px;
+    z-index: -1;
+}
+.concept
+{
+    text-align:center;
+}
+.concept h3
+{
+    color:orange;
+}
+.concept p
+{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.concept ul li
+{
+    display: inline;
+}
+.masterclass
+{
+    background-image: url("../img/foto-4.png");
+    background-size: cover;
+    text-align: right;
+    height: 50%;
+}
+.box4
+{
+    background-color: orange;
+    position: relative;
+    
+    left: 600px;
+    width: 50%;
+    height: 100px;
+    z-index: 0;
+}
+.g-img-1
+{
+    background-image: url("../img/foto-5.png") ;
+    background-size: cover;
+    height: 410px;
+}
+.g-img-2
+{
+    background-image: url("../img/foto-6.png");
+    background-size: cover;
+    height: 410px;
+}
+.g-img-3
+{
+    background-image: url("../img/foto-8.png");
+    background-size: cover;
+    height: 410px;
+}
+.social li
+{
+    display: inline-block;
+    margin: 10px;
+    width: 32px;
+    border: solid white 2px;
+    border-radius: 100%;
+    text-align: center;
+    background-color: white;
+    color:black;
+}
+.g-site
+{
+    color:orange;
+}
+.g-more
+{
+    text-align: center;
+}
+footer
+{
+    background-color: #542a0c;
+    color: white;
+    text-align: justify;
+}
+.menu-pizza
+{
+    height: 400px;
+}
+.pic img
+{
+    width: 50%;
+    height: 100px;
+    
+}
+#navbarNav
+{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+#navbarNav .nav-link
+{
+    font-size: 20px;
+    margin-left:20px;
+    margin-right:20px;
+}
+.quantity
+{
+    height: 30px;
+    width: 40px;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+.form-row,.enc-pizza,.enc-quant
+{
+    display: inline;
+}
+#pepp,#choc,#carb,#veg
+{
+    margin:5px;
+}
+#nome,#morada,#numero
+{
+    margin-top: 5px;;
+    margin-bottom:5px;
+}
+
+#header li
+{
+    display: inline;
+}
+.form_client
+{
+    display: block;
+}
+.nav-menu li
+{
+    padding: 50px;
+}
+.form_client
+{
+    text-align: center;
+}
+.form_client table
+{
+    justify-content: center;
+    margin-left: 40%;
+}
+
+.painel_login, .painel_registo
+{
+    width: 60%; margin:1% auto; padding: 1%;
+    background-color: white;
+}
+.login { width: 60%; margin:1% auto; padding: 1%; background-color: white;}
+
+.limpa{ clear: both; }
+section .col-50{ float: left; width: 50%; text-align: center; background-color: black;}
+
+label{ color:black; font-size: 1.2em; }
+.entrar{ width: 96%; padding: 2%; 
+	border: solid 1px black;
+	margin-bottom: 1%;
+}
+.submeter
+{
+    justify-content: center;
+    margin-left: 40%;
+}
+select{ width: 100%; padding: 2%; 
+	border:0; 
+	margin-bottom: 1%;
+}
+.morada
+{
+    border: solid 1px black;
+}
+#datetimepicker
+{
+    background-color: white;
+}
+.enc_data
+{
+    color:white;
+}
+.client_title
+{
+    text-align: center;
+    color:black;
+}
+.client_form
+{
+    width: 60%; margin:1% auto; padding: 1%;
+    background-color: white;
+}
+.gestao_menu, .gestao_users, .gestao_gastos
+{
+    color:white;
+}
+.gestao_content
+{
+    background-color: white;
+    color: black;
+}
+.gestao_pedidos
+{
+    color:white;
+}
+.gestao_pratos
+{
+    background-color: white;
+    color: black;
+}
+
